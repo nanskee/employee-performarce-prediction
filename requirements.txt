@@ -1,5 +1,10 @@
 streamlit
-matplotlib
 pandas
-scikit-learn
+numpy
+matplotlib
 seaborn
+scikit-learn
+xgboost
+joblib
+shap
+reportlab
